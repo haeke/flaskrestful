@@ -8,7 +8,7 @@
 # How to run
 
 - clone this repository and run locally
-  - git clone https://github.com/waehake/flaskrestful.git flaskrestful
+  - git clone https://github.com/haeke/flaskrestful.git flaskrestful
   - run python restful.py
 - From here you can use a program like Postman to make GET, POST, PUT and DELETE calls
 
